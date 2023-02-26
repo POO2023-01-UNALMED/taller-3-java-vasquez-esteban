@@ -1,4 +1,4 @@
-package televisores;
+package taller3.televisores;
 
 import televisores.Marca;
 import televisores.Control;

@@ -1,5 +1,8 @@
 package televisores;
 
+import televisores.Marca;
+import televisores.Control;
+
 public class TV {
 	public static int numTV = 0; 
 	

@@ -1,5 +1,7 @@
 package televisores;
 
+import televisores.TV;
+
 public class Control {
 	private TV tv;
 	

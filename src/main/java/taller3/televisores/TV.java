@@ -1,7 +1,7 @@
 package taller3.televisores;
 
-import televisores.Marca;
-import televisores.Control;
+import taller3.televisores.Marca;
+import taller3.televisores.Control;
 
 public class TV {
 	public static int numTV = 0; 
